@@ -2,8 +2,8 @@ streamlit
 pandas
 numpy
 matplotlib
-seaborn
+scikit-learn
 statsmodels
 pmdarima
 tensorflow
-scikit-learn
+keras
