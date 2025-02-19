@@ -4,6 +4,6 @@ numpy
 matplotlib
 scikit-learn
 statsmodels
-pmdarima
+pmdarima==2.0.4
 tensorflow
 keras
